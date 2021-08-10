@@ -1,18 +1,18 @@
 {
     "name": "mainnet",
-    "messagePrefix": "ARK message:\n",
+    "messagePrefix": "NeomCity message:\n",
     "bip32": {
         "public": 46090600,
         "private": 46089520
     },
-    "pubKeyHash": 23,
-    "nethash": "6e84d08bd299ed97c212c886c98a57e36545c8f5d645ca7eeae63a8bd62d8988",
-    "wif": 170,
+    "pubKeyHash": 50,
+    "nethash": "df082b915f25674d5ae81b945bbf85292e513c8adc1330c6f41a85d7fd97d6f0",
+    "wif": 5,
     "slip44": 111,
     "aip20": 0,
     "client": {
-        "token": "ARK",
-        "symbol": "Ѧ",
-        "explorer": "https://explorer.ark.io"
+        "token": "NeomCity",
+        "symbol": "NC",
+        "explorer": "http://127.0.0.1:4200"
     }
 }
