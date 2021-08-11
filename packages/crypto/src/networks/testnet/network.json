@@ -1,18 +1,18 @@
 {
     "name": "testnet",
-    "messagePrefix": "TEST message:\n",
+    "messagePrefix": "NeomCity message:\n",
     "bip32": {
         "public": 70617039,
         "private": 70615956
     },
-    "pubKeyHash": 23,
-    "nethash": "d9acd04bde4234a81addb8482333b4ac906bed7be5a9970ce8ada428bd083192",
-    "wif": 186,
+    "pubKeyHash": 65,
+    "nethash": "d1508127769cf5ced26c6a94f87af09aee93e40cffe725a55e06605da2979817",
+    "wif": 145,
     "slip44": 1,
     "aip20": 0,
     "client": {
-        "token": "TARK",
-        "symbol": "TѦ",
-        "explorer": "http://texplorer.ark.io"
+        "token": "NeomCity",
+        "symbol": "NC",
+        "explorer": "http://127.0.0.1:4200"
     }
 }

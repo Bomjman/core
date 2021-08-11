@@ -1,18 +1,18 @@
 {
     "name": "devnet",
-    "messagePrefix": "DARK message:\n",
+    "messagePrefix": "NeomCity message:\n",
     "bip32": {
         "public": 46090600,
         "private": 46089520
     },
     "pubKeyHash": 30,
-    "nethash": "2a44f340d76ffc3df204c5f38cd355b7496c9065a1ade2ef92071436bd72e867",
-    "wif": 170,
+    "nethash": "65a7b1c4e54c82f910925c3c3934b4aec0f6fae1cec84710d4215a554f47f4c9",
+    "wif": 242,
     "slip44": 1,
     "aip20": 1,
     "client": {
-        "token": "DARK",
-        "symbol": "DѦ",
-        "explorer": "https://dexplorer.ark.io"
+        "token": "NeomCity",
+        "symbol": "NC",
+        "explorer": "http://127.0.0.1:4200"
     }
 }
